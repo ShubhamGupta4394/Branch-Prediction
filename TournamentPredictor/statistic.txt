@@ -1,0 +1,3 @@
+ Local Correct Prediction from 10000: 8559
+ Global Correct Prediction from 10000: 9266
+ Tournament Correct Prediction from 10000: 9978
